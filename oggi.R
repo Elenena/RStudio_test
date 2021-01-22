@@ -1,0 +1,2 @@
+print("Oggi è venerdì
+      ")
